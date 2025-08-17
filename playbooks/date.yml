@@ -1,5 +1,5 @@
 -
- name: Date playbook
+ name: Date-playbook
  hosts: servers
  tasks:
    - name: this will show the date
